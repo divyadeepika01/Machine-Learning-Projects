@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+# Skin Disorder Detection Model
